@@ -126,8 +126,8 @@
                      <div class="limit-box">
                         <nav class="main-menu">
                            <ul class="menu-area-main">
-                              <li class="active"> <a href="index.php" style="font-style: italic;">Home</a> </li>
-                              <li> <a href="about.php" style="font-style: italic;">About</a> </li>
+                              <li > <a href="index.php" style="font-style: italic;">Home</a> </li>
+                              <li class="active"> <a href="about.php" style="font-style: italic;">About</a> </li>
                               <li> <a href="product.php" style="font-style: italic;">product</a> </li>
                             
                            </ul>
@@ -181,17 +181,7 @@
          
       </div>
       
-      <div class="brand_color">
-         <div class="container" style="height: 60px;">
-             <div class="row">
-                 <div class="col-md-12">
-                     <div class="titlepage" style="margin-top:3px;">
-                         <h2>PRODUCTS</h2>
-                     </div>
-                 </div>
-             </div>
-         </div>
-    </div><br><br>
+      <br><br>
     <div class="row">
 
         <div class="col-md-10 " >
